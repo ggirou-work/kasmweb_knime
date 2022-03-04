@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Knime
+GenericName=Knime
+Comment=End to End Data Science
+Exec=/opt/knime/knime
+Categories=Development;Science;IDE;Education;
+Icon=/opt/knime/icon.xpm
+Terminal=false
+StartupNotify=true
+MimeType=text/x-python;
